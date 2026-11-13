@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/growth.svg" width="100%" alt="GrowVib: grow any account on any platform. Likes, followers, views and members on Instagram, TikTok, YouTube, Telegram, X, Facebook, Spotify and more" />
+<img src="assets/slides-growth.svg" width="100%" alt="GrowVib: grow any Telegram channel or social account. Members, views and reactions on Telegram; likes, followers and views on Instagram, TikTok, YouTube, X, Facebook, Spotify and more" />
 
 [![Website](https://img.shields.io/badge/growvib.com-7B3FA6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://growvib.com)
 [![MCP server](https://img.shields.io/badge/MCP_server-120D17?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://growvib.com/mcp)
@@ -10,7 +10,7 @@
 
 ### 🤖 Let your agent do the growing
 
-<img src="assets/agent.svg" width="100%" alt="An AI agent finds, prices and orders 1,000 Instagram followers through the GrowVib MCP server" />
+<img src="assets/slides-agent.svg" width="100%" alt="An AI agent finds, prices and orders Telegram members or Instagram followers through the GrowVib MCP server" />
 
 ```bash
 claude plugin marketplace add GrowVib/agent-plugins
